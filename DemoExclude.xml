@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <groups>
+        <run>
+    <exclude name="smoke Test"/>
+  
+       </run>
+  </groups>
+    <classes>
+      <class name="TestNGTT.Excludetestcase"/>
+      <class name="TestNGTT.NewTestAssignment2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

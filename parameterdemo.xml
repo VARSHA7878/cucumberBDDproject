@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <parameter name="brow" value="firefox"></parameter>
+    <classes>
+      <!--class name="TestNGTT.Excludetestcase"/-->
+      <class name="TestNGTT.NewTestAssignment2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
